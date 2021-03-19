@@ -1,0 +1,11 @@
+Student Nikolaos Kalyvas Vilnius University, Erasmus program.
+Test 9. goal among facts
+1) Rules
+A Z C
+Y A
+
+2) Facts
+A
+
+3) Goal
+A

@@ -1,0 +1,17 @@
+Student Nikolaos Kalyvas Vilnius University, Erasmus program.
+Test 6. graph and a long path
+1) Rules
+B F
+G E
+Z D
+D C
+C B
+B A
+G A
+Z G
+
+2) Facts
+A
+
+3) Goal
+Z

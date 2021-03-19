@@ -1,0 +1,15 @@
+Student Nikolaos Kalyvas. Vilnius University, Erasmus student.
+Test 2. Cyras Wins
+1) Rules
+Z G    
+G A
+B A
+C B
+D C
+Z D
+
+2) Facts
+A
+
+3) Goal
+Z

@@ -1,0 +1,12 @@
+Student Nikolaos Kalyvas. Vilnius University, Erasmus student.
+Test 4. Goal in facts
+1) Rules
+B A
+C B
+Z C B
+
+2) Facts
+A
+
+3) Goal
+A

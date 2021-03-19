@@ -1,0 +1,11 @@
+Student Nikolaos Kalyvas Vilnius University, Erasmus program.
+Test 8. unachievable goal
+1) Rules
+Z C D
+Y C E
+
+2) Facts
+C D
+
+3) Goal
+Y

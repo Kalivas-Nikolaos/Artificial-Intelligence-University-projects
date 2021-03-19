@@ -1,0 +1,12 @@
+Student Nikolaos Kalyvas Vilnius University, Erasmus program.
+Test 8. tree alternatives
+1) Rules
+Z A
+Z B
+Z C
+
+2) Facts
+C
+
+3) Goal
+Z
